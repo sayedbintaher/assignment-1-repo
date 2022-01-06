@@ -20,6 +20,10 @@ h1 {
     color: orangered;
 }
 
+.span-color2 {
+    color: tomato;
+}
+
 p {
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
