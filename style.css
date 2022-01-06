@@ -13,6 +13,7 @@ h1 {
 .mission-2022-header {
     font-family: 'Libre Baskerville';
     font-size: 60px;
+    margin-left: 10px;
 }
 
 .span-color {
@@ -41,7 +42,6 @@ p {
     border-radius: 0.7%;
     border-width: 5px;
     margin: 0;
-    padding: 0;
 }
 
 .half-container-left {
