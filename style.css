@@ -57,7 +57,7 @@ p {
 }
 
 .anchor-btn {
-    background-color: orangered;
+    background-image: linear-gradient(to right, orange, tomato);
     padding: 15px 40px;
     color: white;
     text-decoration: none;
