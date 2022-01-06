@@ -162,10 +162,26 @@ p {
 }
 
 .goals-expect-container {
-    background-image: url(images/shape-1.png);
+    background-image: url(images/shape-7.png);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
-    width: 50%;
-    padding-left: 150px;
+    background-position: unset;
+    height: 410px;
+}
+
+#footer-class {
+    background-color: black;
+    text-align: center;
+    margin: 0;
+    overflow: hidden;
+}
+
+#footer-class h1 {
+    font-family: 'Lobster', cursive;
+    padding-top: 40px;
+    color: white;
+}
+
+#footer-class p {
+    color: white;
 }
