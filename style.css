@@ -166,4 +166,6 @@ p {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    width: 50%;
+    padding-left: 150px;
 }
